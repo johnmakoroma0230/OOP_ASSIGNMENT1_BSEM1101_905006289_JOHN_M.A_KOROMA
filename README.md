@@ -69,7 +69,7 @@ The project folder contains the following main files:
     |-- main.py
     |-- README.md
     |-- LICENSE
-    |-- .gitignore
+
     |
     |-- screenshots/
         |-- main_menu.png
@@ -82,7 +82,6 @@ The `README.md` file explains the project and how to run it.
 
 The `LICENSE` file specifies the terms under which others may use, modify, and distribute the source code.
 
-The `.gitignore` file specifies files that Git should not track.
 
 The `screenshots` folder can contain screenshots showing the program running.
 
@@ -358,5 +357,3 @@ Although this is a basic prototype and does not permanently save records, it pro
 2. Python Software Foundation. *Python 3 Documentation*. https://docs.python.org/3/
 3. GitHub Docs. *About repositories*. https://docs.github.com/en/repositories
 4. Digital Public Goods Alliance. *Digital Public Goods Standard*. https://digitalpublicgoods.net/standard/
-
-The lecture materials should be cited using the actual lecturer's name, lecture title, institution, and year if those details are available.
